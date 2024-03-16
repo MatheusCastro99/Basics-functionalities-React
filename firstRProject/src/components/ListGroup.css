@@ -1,0 +1,6 @@
+.activeTab {
+    color: rgb(75, 28, 161);
+    opacity: 1;
+    transition: opacity 200ms ease-in-out;
+    transition-duration: 1s;
+  }
